@@ -42,7 +42,6 @@
 
 #define ALT_MULTI_SPLITTER  // alternative multisplitter where client hashes based on oid not cid
 
-
 //#define NOGAIA
 
 //#define DEBUGMEMORY
